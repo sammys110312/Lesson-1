@@ -1,0 +1,10 @@
+tuple =("Orange", "Lemon", "Lime", "Mandarin")
+print(tuple)
+print(len(tuple))
+print(tuple[-2])
+tuple1 = (1,2,3)
+print(tuple1)
+tuple2 = (4,5,6)
+print(tuple2)
+tuple3 = tuple1 + tuple2
+print(tuple3)
