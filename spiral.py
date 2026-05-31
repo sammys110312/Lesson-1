@@ -1,5 +1,5 @@
 import turtle
-turtle.Screen().bgcolor("white")
+turtle.Screen().bgcolor("black")
 sc=turtle.Screen()
 sc.setup(1000,1000)
 pen=turtle.Turtle()
