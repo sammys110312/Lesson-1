@@ -1,12 +1,14 @@
 class Library:
     def __init__(self):
         self.books = ["Maths", "Science", "English", "Computer Science"]
+        self.books.sort()
     def display_book(self):
-        print("Book in library")
+        print("Books in library: ")
         for book in self.books:
             print(book)
     def add_book(self,book):
         self.books.append(book)
+        self.books.sort()
         print(book, "added successfully")
     def lend_book(self,book):
         if book in self.books:
@@ -16,6 +18,7 @@ class Library:
             print("Book not available")
     def return_book(self,book):
         self.books.append(book)
+        self.books.sort()
         print("Book returned successfully")
 s1 = Library()
 while True:
