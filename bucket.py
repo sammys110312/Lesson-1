@@ -1,0 +1,26 @@
+file = open("bucket_list.txt", "w")
+file.write("be happy \n")
+file.write("be successful \n")
+file.write("be kind \n")
+file.close()
+
+file = open("bucket_list.txt", "r")
+content = file.read()
+print(content)
+file.close()
+
+file = open("bucket_list.txt", "r")
+items = file.readlines()
+length = len(items)
+print(length)
+file.close()
+
+file = open("bucket_list.txt", "a")
+file.write("enjoy life \n")
+file.write("remember values \n")
+file.close()
+
+file = open("bucket_list.txt", "r")
+content1 = file.read()
+print(content1)
+file.close()
