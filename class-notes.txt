@@ -1,0 +1,9 @@
+1. Nucleus: Stores genetic material and coordinates cellular activities.
+2. Mitochondria: Produces energy through cellular respiration.
+3. Ribosomes: Synthesizes proteins.
+4. Endoplasmic Reticulum (ER): Processes and transports proteins and lipids; rough ER has ribosomes, while smooth ER does not.
+5. Golgi Apparatus: Modifies, sorts, and packages proteins and lipids for secretion or delivery to other organelles.
+6. Lysosomes: Contains enzymes for digestion and waste removal.
+7. Chloroplasts (in plant cells): Conducts photosynthesis to convert solar energy into chemical energy.
+8. Cell Membrane: Protects the cell and regulates what enters and exits.
+9. Cytoplasm: The gel-like substance where organelles are suspended and metabolic reactions occur.

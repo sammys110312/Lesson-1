@@ -1,0 +1,5 @@
+1. Nucleus: Stores genetic material and coordinates cellular activities.
+3. Ribosomes: Synthesizes proteins.
+5. Golgi Apparatus: Modifies, sorts, and packages proteins and lipids for secretion or delivery to other organelles.
+7. Chloroplasts (in plant cells): Conducts photosynthesis to convert solar energy into chemical energy.
+9. Cytoplasm: The gel-like substance where organelles are suspended and metabolic reactions occur.
