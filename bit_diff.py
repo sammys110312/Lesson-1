@@ -6,4 +6,4 @@ while xor_result > 0:
     if xor_result & 1:
         count += 1
     xor_result = xor_result >> 1
-print("Number of differnet bits", count)
+print("Number of different bits", count)
