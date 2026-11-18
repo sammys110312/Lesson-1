@@ -1,0 +1,10 @@
+prices = [7, 1, 5, 3, 6, 4]
+min_price = prices[0]
+max_profit = 0
+for price in prices:
+    profit = price - min_price
+    if profit > max_profit:
+        max_profit = profit
+    if price < min_price:
+        min_price = price
+print("Maximum profits:", max_profit)
